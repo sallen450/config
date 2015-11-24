@@ -1,0 +1,26 @@
+{
+    "name": "template",
+    "version": "0.1.0",
+    "description": "npm starter kit for web develop",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "keywords": [
+        "web",
+        "develop"
+    ],
+    "author": "QingHua Ji",
+    "license": "MIT",
+    "bugs": "",
+    "homepage": "",
+    "devDependencies": {
+        "browser-sync": "^2.10.0",
+        "eslint": "^1.10.1",
+        "eslint-config-airbnb": "^1.0.0",
+        "eslint-plugin-react": "^3.10.0",
+        "gulp": "^3.9.0",
+        "gulp-watch": "^4.3.5"
+    }
+}
