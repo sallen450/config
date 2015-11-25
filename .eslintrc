@@ -9,5 +9,6 @@
         "no-undef": 1,
         "func-names": 0,
         "id-length":  0
-    }
+    },
+    "globals": {}
 }
